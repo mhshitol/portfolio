@@ -4,7 +4,7 @@ Personal portfolio website of Minhajul Islam Shitol — AI/ML Engineer & Full-St
 
 Built with plain HTML, CSS, and JavaScript. No frameworks, no build step.
 
-**Live site:** https://mhshitol.github.io
+**Live site:** https://mhshitol.github.io/portfolio/
 
 ## Run locally
 
